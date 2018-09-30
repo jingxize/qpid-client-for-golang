@@ -28,6 +28,8 @@ NOTE:if your system is not OS X El Capitan,you must recompile the package /src/p
    Because the project is just a demo for use golang to connect qpid, don’t include the service side of the qpid,so its install is easy,you just need download the project from the github.
 
    git clone https://github.com/jingxize/qpid-client-for-golang.git
+   
+   
 2、测试
 
    比如我们把项目代码下载到的 /usr/local/golangqpid/。
