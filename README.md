@@ -5,6 +5,7 @@ QPID 是 Apache Foundation 的一个开源项目，是一个 AMQP 实现。关�
 本项目的环境：
 
 操作系统：OS X El Capitan 10.11.6
+
 system :OS X El Capitan 10.11.6
 
 golang版本：go1.9.2 darwin/amd64
